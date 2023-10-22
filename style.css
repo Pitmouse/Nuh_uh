@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(225,0,255)
+
+}
+p{
+    text-align:center
+}
+a{
+    font-size: 90px;
+    color: rgb( 255, 0, 0);
+    font-family: "Comic Sans MS"
+}
